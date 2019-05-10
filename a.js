@@ -1,2 +1,1 @@
-console.log('A');
-consol.log('AA')
+consol.log('AA');
